@@ -1,0 +1,4 @@
+[{% for object in objects %}
+    {% include "api/object.json" with object=object %}{%if not forloop.last%},{%endif%}
+{% endfor %}
+]

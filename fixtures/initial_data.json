@@ -1,0 +1,15 @@
+[
+    {
+        "model":"object.object",
+        "pk":1,
+        "fields":{
+            "name":"Test Object1"
+        }
+    },    {
+        "model":"object.object",
+        "pk":2,
+        "fields":{
+            "name":"Test Object 2"
+        }
+    }
+]
